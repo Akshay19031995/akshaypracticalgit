@@ -1,1 +1,5 @@
-DGHIM
+git push -u origin main
+ # Giving locations 
+echo "# akshaypracticalgit" >> README.md
+git init
+
